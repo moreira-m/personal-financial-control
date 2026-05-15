@@ -1,0 +1,8 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:moreira-m/financial-api.git
+	branch = main
+[submodule "web"]
+	path = web
+	url = git@github.com:moreira-m/financial-web.git
+	branch = main
